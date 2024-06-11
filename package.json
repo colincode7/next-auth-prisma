@@ -38,7 +38,7 @@
     "@graphql-codegen/cli": "3.3.0",
     "@graphql-codegen/client-preset": "3.0.1",
     "@graphql-codegen/client-preset-swc-plugin": "0.2.0",
-    "@types/node": "20.2.3",
+    "@types/node": "20.14.2",
     "@types/react": "18.3.3",
     "eslint": "8.38.0",
     "eslint-config-next": "13.4.3",
