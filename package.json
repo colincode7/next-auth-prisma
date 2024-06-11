@@ -30,7 +30,7 @@
     "next-urql": "3.3.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-is": "18.2.0",
+    "react-is": "18.3.1",
     "urql": "2.2.3",
     "~gql": "link:./src/lib/graphql"
   },
